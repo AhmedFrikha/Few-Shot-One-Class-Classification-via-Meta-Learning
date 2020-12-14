@@ -1,0 +1,5 @@
+{
+  "K": 10,
+  "cir_train": 1.0,
+  "summary_dir": "MIN_OCSVM_K_10"
+}

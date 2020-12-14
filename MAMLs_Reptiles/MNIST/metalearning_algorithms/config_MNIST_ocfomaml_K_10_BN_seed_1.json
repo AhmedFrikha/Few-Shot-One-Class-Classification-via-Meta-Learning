@@ -1,0 +1,21 @@
+{
+  "dataset": "MNIST", 
+  "filters": "32 32 32 32",
+  "kernel_sizes": "3 3 3 3",
+  "dense_layers": "",
+  "meta_lr": 0.001,
+  "lr": 0.01,
+  "num_updates": 5,
+  "bn": "True",
+  "meta_epochs": 10000,
+  "K": 10,
+  "cir_inner_loop": 1.0,
+    "n_queries": 100,
+  "test_task_idx": 0,
+  "val_task_idx": 9,
+  "stop_grad": "True",
+  "anil":"False",
+  "seed": 1,
+  "summary_dir": "MNIST_OCFOMAML_K_10_BN_seed_1"
+}
+

@@ -1,0 +1,20 @@
+{
+  "dataset": "STS_Sine", 
+  "filters": "32 32 32",
+  "kernel_sizes": "3 3 3",
+  "dense_layers": "",
+  "meta_lr": 0.001,
+  "lr": 0.001,
+  "num_updates": 10,
+  "bn": "True",
+  "meta_epochs": 10000,
+  "K": 10,
+  "cir_inner_loop": 1.0,
+    "n_queries": 50,
+  
+  "stop_grad": "True",
+  "anil":"False",
+  "seed": 1,
+  "summary_dir": "STS_Sine_OCREPTILE_K_10_BN_seed_1"
+}
+

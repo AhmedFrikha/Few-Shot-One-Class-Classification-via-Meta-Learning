@@ -1,0 +1,6 @@
+{ 
+  "dataset_id": "sawtooth",
+  "K_list": "2 10 100",
+  "cir_inner_loop_list": "0.50 0.90 0.990 1.0",
+  "n_finetune_sets": 10
+}

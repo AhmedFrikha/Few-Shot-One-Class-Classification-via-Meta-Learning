@@ -1,0 +1,14 @@
+{
+  "filters": "32 32 32 32",
+  "kernel_sizes": "3 3 3 3",
+  "dense_layers": "",
+  "lr": 0.05,
+  "train_epochs": 10000,
+  "finetune_epochs": 1000,
+  "batch_size": 32,
+  "K_list": "2 10",
+  "cir_inner_loop_list": "0.50 1.0",
+  "test_task_idx": 7,
+  "val_task_idx": 9,
+  "summary_dir": "MNIST_val9_test7_FB"
+}

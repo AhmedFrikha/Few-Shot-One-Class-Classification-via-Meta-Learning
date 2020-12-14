@@ -1,0 +1,7 @@
+{
+  "K": 10,
+  "cir_train": 1.0,
+  "test_task_idx": 6,
+  "val_task_idx": 9,
+  "summary_dir": "MNIST_val9_test6_OCSVM_K_10"
+}

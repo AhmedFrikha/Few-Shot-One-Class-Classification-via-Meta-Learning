@@ -1,0 +1,19 @@
+{
+  "dataset": "OMN", 
+  "filters": "64 64 64 64",
+  "kernel_sizes": "3 3 3 3",
+  "dense_layers": "",
+  "meta_lr": 0.001,
+  "lr": 0.01,
+  "num_updates": 5,
+  "bn": "True",
+  "meta_epochs": 20000,
+  "K": 10,
+  "cir_inner_loop": 1.0,
+  "n_queries": 20,
+  "stop_grad": "True",
+  "anil":"False",
+  "seed": 1,
+  "summary_dir": "OMN_OCREPTILE_K_10_BN_seed_1"
+}
+

@@ -1,0 +1,12 @@
+{
+  "filters": "32 32 32 32",
+  "kernel_sizes": "3 3 3 3",
+  "dense_layers": "16",
+  "lr": 0.01,
+  "train_epochs": 10000,
+  "finetune_epochs": 1000,
+  "batch_size": 32,
+  "K_list": "2 10 100",
+  "cir_inner_loop_list": "0.50 0.990 1.0",
+  "summary_dir": "MiniImageNet_MTL"
+}
